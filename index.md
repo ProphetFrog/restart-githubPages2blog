@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to prophetFrog's blog
 ---
 
+# This is the header
+
+This is the content
